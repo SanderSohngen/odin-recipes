@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Estonia&family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    max-width: 600px;
+    text-align: center;
+}
+
+h1 {
+  font-family: "Dancing Script", "Estonia", sans-serif;
+  font-weight: thin;
+  font-size: 64px;
+}
+
+h3 {
+  font-family: "Dancing Script", sans-serif;
+  font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+div {
+    color: rgb(104, 103, 103);
+    background-color: rgba(194, 120, 41, 0.219);
+    border-radius: 5px;
+}
+
+img {
+    border-radius: 10px;
+}
